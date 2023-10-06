@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bashakamal
 - 👀 I’m interested in ...python, machine learning, data scientist
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...CV & NLP
 - 💞️ I’m looking to collaborate on ...data scientist
 - 📫 How to reach me ...whatsapp +919943074492, bashakamal95@gmail.com
 
